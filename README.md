@@ -48,7 +48,19 @@ First data exploration of our given data sets.
 * Movie DB  
 * The Numbers  
 
-![Data](/Visualizations/Picture1.png) 
+| Table Name   |# Entries|# Columns| Description                                                  |  
+|--------------|:-------:|:-------:|------------------------------------------------------------  |  
+|movie_gross   |3387     |5        |Movie, studio, year of release and domestic and foreign gross |  
+|movie_info    |1560	 |12	   |General info of movies, like synopsis, rating, genre, director|  
+|reviews       |54432	 |8	   |Reviews and ratings                                           |  
+|movies	       |26517    |10	   |Popularity and votings                                        |  
+|budgets       |5782	 |6	   |Production budget and worldwide gross                         |  
+|persons       |606648	 |5	   |Name, id, primary profession                                  |  
+|known_for     |1638260	 |2	   |Person id, movie id                                           |  
+|directors     |291174	 |2	   |Person_id, movie id                                           |  
+|writers       |255873	 |2	   |Person id, movie id                                           |  
+|movie_basics  |146144	 |6	   |Title, release date, runtime and genre                        |  
+
 
 ![Roi Histogram](/Visualizations/roi_hist.png)   
 
